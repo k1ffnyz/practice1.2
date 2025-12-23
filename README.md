@@ -53,3 +53,19 @@ Grafana Data Source
 
 Grafana Dashboard
 ![Grafana Dashboard](screenshots/grafana-dashboard.png)
+
+---
+
+<hr>
+
+<div style="color: green; font-weight: bold;">
+✔ Prometheus успешно собирает метрики
+</div>
+
+<div style="color: blue; font-weight: bold;">
+📊 Grafana визуализирует данные в реальном времени
+</div>
+
+<div style="color: red; font-weight: bold;">
+⚠ В случае недоступности Target статус изменится на DOWN
+</div>
