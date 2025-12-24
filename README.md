@@ -76,3 +76,4 @@ Grafana Dashboard
 - **Prometheus** — сбор и хранение метрик
 - **Node Exporter** — метрики ОС
 - **Grafana** — визуализация
+
